@@ -10,9 +10,7 @@ There's a file on the folder ```.vscode/launch.json``` which represent the debug
 
 #### Step 1: installing tools
 
-* install git: [git-scm](http://git-scm.com/)
 * install NodeJS@6.3.1+: [nodejs.org](http://nodejs.org)
-* install Bunyan globally: `npm install bunyan -g` (to show core log with pretty print)
 
 #### Step 2: preparing repository
 
@@ -23,7 +21,7 @@ Heroku
 
 Install project packages
 ```
-cd core-server
+cd sicredi-core
 npm install
 ```
 ### Step 3: run tests to check if things are fine
