@@ -24,12 +24,6 @@ Install project packages
 cd sicredi-core
 npm install
 ```
-### Step 3: run tests to check if things are fine
-
-Easy like that:
-```
-npm test
-```
 
 ### Development style guide
 
