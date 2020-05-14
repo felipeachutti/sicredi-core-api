@@ -1,0 +1,19 @@
+## Customize the test machine
+machine:
+  node:
+    version: 6.9.1
+
+deployment:
+  staging:
+    branch: master
+    codedeploy:
+      coreapi-deploy:
+        deployment_group: development-instances
+        application_root: /
+        revision_location:
+          revision_type: S3
+          s3_location:
+            bucket: sicredi-codedeploy
+            key_pattern: app-core-dev-{SHORT_COMMIT}-{BUILD_NUM}
+        region: us-east-1
+        deployment_config: CodeDeployDefault.AllAtOnce

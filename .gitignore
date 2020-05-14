@@ -1,0 +1,18 @@
+# Logs
+logs/
+newrelic_agent.log
+npm-debug.log
+npm-debug.log.*
+
+# Test files
+coverage/
+
+# Dependency directory
+node_modules/
+
+# VS Code
+.vscode/
+typings/
+typings.json
+jsconfig.json
+.history/
