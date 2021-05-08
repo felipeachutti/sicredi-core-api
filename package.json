@@ -56,7 +56,7 @@
     "form-data": "^1.0.0-rc4",
     "fstream": "^1.0.10",
     "gulp-eslint": "^2.0.0",
-    "handlebars": "^4.0.5",
+    "handlebars": "^4.7.7",
     "hapi": "^14.2.0",
     "hapi-auth-basic": "^4.2.0",
     "hapi-auth-cookie": "^6.1.1",
