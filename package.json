@@ -87,7 +87,7 @@
     "sillyname": "0.1.0",
     "sticky-session": "^1.0.2",
     "swig": "^1.4.2",
-    "tar": "^2.2.1",
+    "tar": "^4.4.15",
     "typescript": "^1.9.0-dev.20160616-1.0",
     "vision": "^4.1.0",
     "@brazilian-utils/is-valid-cpf": "^1.0.0-alpha.3"
