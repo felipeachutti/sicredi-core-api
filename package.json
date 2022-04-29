@@ -45,7 +45,7 @@
     "sinon": "~1.17.5"
   },
   "dependencies": {
-    "async": "^2.0.0",
+    "async": "^2.6.4",
     "boom": "^3.2.2",
     "bufferutil": "^1.2.1",
     "bunyan": "^1.4.0",
