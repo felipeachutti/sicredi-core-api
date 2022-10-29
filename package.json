@@ -62,7 +62,7 @@
     "hapi-auth-cookie": "^6.1.1",
     "hapi-auth-jwt2": "^7.0.1",
     "hapi-bunyan": "^0.6.0",
-    "hapi-io": "0.1.0",
+    "hapi-io": "0.2.1",
     "hapi-plugin-websocket": "^0.9.1",
     "hapi-routes-status": "^2.1.1",
     "hoek": "^4.0.2",
